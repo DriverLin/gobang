@@ -4,7 +4,6 @@
 #define true 1
 #define false 0 
 #define MAXLENGTH 10000
-#define coefficient 1 	//参数 决定了AI优先关注玩家不赢还是自己赢
 using namespace std;
 
 
